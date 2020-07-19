@@ -43,7 +43,7 @@ Neste desafio foi desenvolvida uma nova aplicação, a GoMarketplace. Desta vez 
 
 ## 🚀 Como rodar este projeto
 
-Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [NodeJs][nodejs] Instalado em seu computador.
+Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [NodeJs][nodejs] e [React Native][reactnative] instalados em seu computador.
 
 ### 🌀 Clonando o repositório
 
@@ -110,7 +110,7 @@ $ yarn json-server server.json -p 3333 -H (Ip da sua maquina)
 
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mais.
 
-Feito com ❤️ por Cintia Zago 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alquiponeto/)
+Feito com ❤️ por Cintia Zago 👋🏽 [Entre em contato!](https://www.linkedin.com/in/cintiazago/)
 
 [nodejs]: https://nodejs.org/
 [reactnative]: https://reactnative.dev/
