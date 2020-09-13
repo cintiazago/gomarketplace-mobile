@@ -1,17 +1,17 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+<img alt="GoStack" src=".github/capa.png" />
 
 <p align="center">
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Alquipo/GoStack12-Desafio-08-GoMarketplace">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cintiazago/gomarketplace-mobile">
 
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/cintiazago/gomarketplace-mobile">
 
-<a href="https://www.linkedin.com/in/alquiponeto/">
+<a href="https://www.linkedin.com/in/cintiazago/">
     <img alt="Made by Cintia Zago" src="https://img.shields.io/badge/made%20by-cintiazago-blue">
 </a>
 
 <a href="https://github.com/cintiazago/gomarketplace-mobile/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alquipo/GoStack12-Desafio-08-GoMarketplace?color=blue">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/cintiazago/gomarketplace-mobile?color=blue">
 </a>
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
